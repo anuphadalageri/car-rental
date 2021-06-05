@@ -1,1 +1,1 @@
-web: gunicorn car_rental_app.wsgi --log-file -
+web: gunicorn CarRentall.wsgi--logfile-
