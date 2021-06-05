@@ -25,7 +25,7 @@ SECRET_KEY = 'v%()u+0&27nyn$&_=g$4tj9_gp-)%-w7g6+xyg@h+m#b%uly6='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['sociomode.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['pickupdrive.herokuapp.com','127.0.0.1']
 
 
 # Application definition
